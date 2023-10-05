@@ -41,35 +41,35 @@
             "#c7ccd1"
         ],
         "BACKGROUND_PRIMARY": [
-            "#202029",
+            "#31006e",
             "#1e1e2e"
         ],
         "BACKGROUND_SECONDARY": [
-            "#171717",
+            "#31006e",
             "#f2f3f5"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#171717",
+            "#31006e",
             "#ebedef"
         ],
         "BACKGROUND_TERTIARY": [
-            "#121212",
+            "#31006e",
             "#e3e5e8"
         ],
         "BACKGROUND_ACCENT": [
-            "#979BF6",
+            "#1200b56",
             "#747f8d"
         ],
         "BACKGROUND_FLOATING": [
-            "#383e4a",
+            "#31006e",
             "#FFFFFF"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#383e4a",
+            "#31006e",
             "#f8f9f9"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#383e4a",
+            "#31006e",
             "#ffffff"
         ],
         "BACKGROUND_NESTED_FLOATING": [
@@ -93,7 +93,7 @@
             "hsla(214, 9.9%, 50.4%, 0.24)"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#14141f",
+            "#31006e",
             "hsla(240, 7.7%, 2.5%, 0.08)"
         ],
         "SCROLLBAR_THIN_THUMB": [
@@ -117,7 +117,7 @@
             "#45475a"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#383e4a",
+            "#31006e",
             "#ebedef"
         ],
         "CHANNELS_DEFAULT": [
@@ -133,11 +133,11 @@
             "#000000"
         ],
         "KEYBOARD": [
-            "#0a1063",
+            "#31006e",
             "#FFFFFF"
         ],
         "CHAT_BACKGROUND": [
-            "#383e4a",
+            "#31006e",
             "#ffffff"
         ]
   }, 
