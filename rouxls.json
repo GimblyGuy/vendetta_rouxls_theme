@@ -121,22 +121,26 @@
             "#ebedef"
         ],
         "CHANNELS_DEFAULT": [
-            "#6a6ea1",
-            "#6a6ea1"
+            "#6770e6",
+            "#6770e6"
         ],
         "CHANNEL_ICON": [
-            "#6a6ea1",
-            "#6a6ea1"
+            "#6770e6",
+            "#6770e6"
         ],
         "TEXT_LINK": [
             "#979BF6",
             "#000000"
         ],
         "KEYBOARD": [
-            "#202029",
+            "#122157",
             "#FFFFFF"
+        ],
+        "CHAT_BACKGROUND": [
+            "#122157",
+            "#ffffff"
+        ]
   }, 
-    
    "rawColors": { 
      "PRIMARY_500": "#171717",
      "PRIMARY_600": "#171717", 
