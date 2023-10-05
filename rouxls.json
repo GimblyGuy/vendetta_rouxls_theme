@@ -1,5 +1,5 @@
 {
-    "name": "Rouxls-Theme",
+    "name": "Rouxls Theme",
     "description": "Wherefore art thou using this?",
     "authors": [
         {
@@ -61,15 +61,15 @@
             "#747f8d"
         ],
         "BACKGROUND_FLOATING": [
-            "#171717",
+            "#383e4a",
             "#FFFFFF"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#202029",
+            "#383e4a",
             "#f8f9f9"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#171717",
+            "#383e4a",
             "#ffffff"
         ],
         "BACKGROUND_NESTED_FLOATING": [
@@ -117,7 +117,7 @@
             "#45475a"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#171717",
+            "#383e4a",
             "#ebedef"
         ],
         "CHANNELS_DEFAULT": [
@@ -133,11 +133,11 @@
             "#000000"
         ],
         "KEYBOARD": [
-            "#122157",
+            "#0a1063",
             "#FFFFFF"
         ],
         "CHAT_BACKGROUND": [
-            "#122157",
+            "#383e4a",
             "#ffffff"
         ]
   }, 
