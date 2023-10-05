@@ -57,7 +57,7 @@
             "#e3e5e8"
         ],
         "BACKGROUND_ACCENT": [
-            "#1200b56",
+            "#3552e6",
             "#747f8d"
         ],
         "BACKGROUND_FLOATING": [
@@ -93,11 +93,11 @@
             "hsla(214, 9.9%, 50.4%, 0.24)"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#31006e",
+            "#3552e6",
             "hsla(240, 7.7%, 2.5%, 0.08)"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#45475a",
+            "#3552e6",
             "hsla(217, 7.6%, 33.5%, 0.3)"
         ],
         "SCROLLBAR_THIN_TRACK": [
@@ -109,7 +109,7 @@
             "#cccccc"
         ], 
          "SPOILER_HIDDEN_BACKGROUND": [ 
-             "#171717", 
+             "#3552e6", 
              "#ffffff"
         ],
         "SCROLLBAR_AUTO_TRACK": [
