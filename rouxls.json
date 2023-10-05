@@ -135,11 +135,6 @@
         "KEYBOARD": [
             "#202029",
             "#FFFFFF"
-        ],
-        "CHAT_BACKGROUND": [
-            "#202029",
-            "#ffffff"
-        ]
   }, 
    "rawColors": { 
      "PRIMARY_500": "#171717",
@@ -158,7 +153,7 @@
     "background": {
         "blur": 0.1,
         "url": "https://64.media.tumblr.com/118c64172c04042680bae3d0be458472/tumblr_pi43w3JdIV1r6zxwso1_1280.png",
-        "alpha": 0.80
+        "alpha": 2
     },
      "plus":{
         "version":"0",
