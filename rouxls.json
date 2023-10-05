@@ -121,23 +121,23 @@
             "#ebedef"
         ],
         "CHANNELS_DEFAULT": [
-            "#6770e6",
-            "#6770e6"
+            "#c8a8f7",
+            "#c8a8f7"
         ],
         "CHANNEL_ICON": [
-            "#6770e6",
-            "#6770e6"
+            "#c8a8f7",
+            "#c8a8f7"
         ],
         "TEXT_LINK": [
-            "#979BF6",
+            "#f4bfff",
             "#000000"
         ],
         "KEYBOARD": [
-            "#31006e",
+            "#311936",
             "#FFFFFF"
         ],
         "CHAT_BACKGROUND": [
-            "#31006e",
+            "#311936",
             "#ffffff"
         ]
   }, 
